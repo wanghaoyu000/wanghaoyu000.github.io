@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as a,ah as n}from"./chunks/framework.Cga242Po.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git/note1.md","filePath":"git/note1.md"}'),o={name:"git/note1.md"};function r(s,t,_,c,i,d){return a(),e("div",null,[...t[0]||(t[0]=[n("",13)])])}const g=p(o,[["render",r]]);export{m as __pageData,g as default};
